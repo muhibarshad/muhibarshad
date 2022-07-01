@@ -1,9 +1,11 @@
-<img align="center" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJ918WArSbZuxZ-YxmqVcY67ROOTz0Vhae_AOrPBMAbfGpN0qzoxu-bdkVxrGaMQUhggM&usqp=CAU">
 <br>
 <br>
 <h1 align="center">Hi 👋, I'm Muhib Arshad</h1>
 <br>
 <br>
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/muhib7353/muhib7353/blob/main/devcard.svg" width="400" alt="Muhib's Dev Card"/></a>
+
+
 <br>
 <h3 align="center">A passionate frontend web developer and C++ games developer from Pakistan</h3>
 <br>
