@@ -1,4 +1,6 @@
 <br>
+<!-- Place this tag where you want the button to render. -->
+<a class="github-button" href="https://github.com/muhib7353" data-color-scheme="no-preference: light; light: light; dark: dark;" aria-label="Follow @muhib7353 on GitHub">Follow @muhib7353</a>
 <br>
 <h1 align="center">Hi 👋, I'm Muhib Arshad</h1>
 <br>
@@ -66,3 +68,5 @@
 <br>
 <br>
 <br>
+<!-- Place this tag in your head or just before your close body tag. -->
+<script async defer src="https://buttons.github.io/buttons.js"></script>
