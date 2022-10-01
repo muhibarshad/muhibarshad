@@ -2,7 +2,9 @@
 <br>
 <h1 align="center">Hi 👋, I'm Muhib Arshad</h1>
 <br>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhib7353&label=Profile%20views&color=0e75b6&style=flat" alt="muhib7353" /> </p>
 <br>
+
 <a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/muhib7353/muhib7353/blob/main/devcard.svg" width="400" alt="Muhib's Dev Card"/></a>
 
 
@@ -27,4 +29,4 @@
 <img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=muhib7353&icon=5&color=7)](https://visitcount.itsvg.in)
+
