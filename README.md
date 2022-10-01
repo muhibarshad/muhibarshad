@@ -22,6 +22,11 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muhib7353&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhib7353&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+[![Muhib's github activity graph](https://activity-graph.herokuapp.com/graph?username=muhib7353&theme=react-dark&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=muhib7353&theme=react-dark&count_private=true)
+<br>
+
+<h2  align="center">💻 Check Out My Projects ⬇️ </h2>
+
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
