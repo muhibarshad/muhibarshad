@@ -1,16 +1,13 @@
 
 <br>
 <h1 align="center">Hi there👋, I'm Muhib Arshad</h1>
-
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhib7353&label=Profile%20views&color=0e75b6&style=flat" alt="muhib7353" /> </p>
 <br>
-
-<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/muhib7353/muhib7353/blob/main/devcard.svg" width="400" alt="Muhib's Dev Card"/></a>
-
-
 # 💫 About Me:
 🔭 A software engineer who loves working with Object Oriented Programming in C++ , Modern JavaScript, open Source ,Linux, node.js, all of my projects are available at https://github.com/muhib7353 💬 feel freely to contribute and ask me about ES6, GitHub, C++, almost everything 😁 you can contact me at  muhibarshad123@gmail.com.
+![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif) 
+
 
 
 ## 🌐 Socials:
@@ -23,16 +20,14 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=muhib7353&theme=radical&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=muhib7353&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/muhib7353/muhib7353/blob/main/devcard.svg" width="400" alt="Muhib's Dev Card"/></a>
+<br>
 [![Muhib's github activity graph](https://activity-graph.herokuapp.com/graph?username=muhib7353&theme=react-dark&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=muhib7353&theme=react-dark&count_private=true)
 <br>
 
 
 
-### ✍️ Do you know ?
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 😂 Don't Laugh
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 
