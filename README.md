@@ -7,7 +7,7 @@
 🔭 A software engineer who loves working with Object Oriented Programming in C++ , Modern JavaScript, open Source ,Linux, node.js, all of my projects are available at [muhib7353](https://github.com/muhib7353?tab=repositories) 💬 feel freely to contribute and ask me about ES6, GitHub, C++, almost everything 😁 you can contact me at  muhibarshad123@gmail.com. Exploring my interests in the field of DevOps 🐳 and Backend of web applications.☁️ .
 
 ![image](https://github.com/freekmurze/freekmurze/blob/master/dino.gif) 
-###### GIF Credits : [Freek Van Der Herten](https://github.com/freekmurze)
+
 
 
 
