@@ -1,6 +1,7 @@
 
 <br>
-<h1 align="center">Hi 👋, I'm Muhib Arshad</h1>
+<h1 align="center">Hi there👋, I'm Muhib Arshad</h1>
+
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=muhib7353&label=Profile%20views&color=0e75b6&style=flat" alt="muhib7353" /> </p>
 <br>
@@ -9,7 +10,7 @@
 
 
 # 💫 About Me:
-🔭 I’m currently working on Object Oriented Programming and JavaScript.<br><br>🌱 I’m currently learning Modern JavaScript, C++, open Source ,Linux, node.js<br><br>👨‍💻 All of my projects are available at https://github.com/muhib7353<br><br>💬 Ask me about ES6, GitHub, C++, almost everything😁<br><br>📫 How to reach me muhibarshad123@gmail.com<br><br>⚡ Fun fact : I share my code to everyone and love to share concepts
+🔭 A software engineer who loves working with Object Oriented Programming in C++ , Modern JavaScript, open Source ,Linux, node.js, all of my projects are available at https://github.com/muhib7353 💬 feel freely to contribute and ask me about ES6, GitHub, C++, almost everything 😁 you can contact me at  muhibarshad123@gmail.com.
 
 
 ## 🌐 Socials:
