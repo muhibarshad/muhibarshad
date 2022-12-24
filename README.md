@@ -33,8 +33,6 @@
 
 
 
-<!--  daily.dev BOOKMARKS:START -->
-<!--  daily.dev BOOKMARKS:END -->
 
 
 # 📊 GitHub Stats:
@@ -48,6 +46,8 @@
 
 
 
+<!--  daily.dev BOOKMARKS:START -->
+<!--  daily.dev BOOKMARKS:END -->
 
 
 ---
