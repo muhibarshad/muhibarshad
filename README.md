@@ -29,12 +29,13 @@
 </p>
 
 
-
-
-
-
-[![Muhib's github activity graph](https://activity-graph.herokuapp.com/graph?username=muhib7353&theme=react-dark&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=muhib7353&theme=react-dark&count_private=true)
 <br>
+
+
+
+<!--  daily.dev BOOKMARKS:START -->
+<!--  daily.dev BOOKMARKS:END -->
+
 
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=muhib7353&theme=radical&hide_border=false&include_all_commits=false&count_private=false)<br/>
@@ -50,4 +51,4 @@
 
 
 ---
-
+[![Muhib's github activity graph](https://activity-graph.herokuapp.com/graph?username=muhib7353&theme=react-dark&count_private=true&area=true&hide_border=true)](https://activity-graph.herokuapp.com/graph?username=muhib7353&theme=react-dark&count_private=true)
