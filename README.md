@@ -7,7 +7,7 @@
 - Software engineer with a passion for open source projects and the MERN stack
 - Specializes in automation through Linux bash scripting and C++ Games
 - All projects can be found on [My-Projects-Collection](https://github.com/muhib7353/My-Project-Collection)
-- Mentor at [@Codezilla Nest](https:github.com/Codezilla-Nest), guiding development projects
+- Owner of [@Codezilla Nest](https:github.com/Codezilla-Nest), guiding development projects
 - Interests include Backend, Artifical Intelligence and OS security development, always eager to contribute to related projects.
 - In spare time, enjoys blogging, learning new tech tools, and watching memes.
 - Contactable at muhibarshad123@gmail.com
