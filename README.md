@@ -5,7 +5,7 @@
 
 
 - Software engineer with a passion for open source, automation and Learning Computers Core understnading.
-- From Deveolopment Prespective Leaernd MERN, C++ and Programming Concepts Like (PF, OOP, DSA, DB)
+- From Deveolopment Still Prespective Learned MERN, C++ and Programming Concepts Like (PF, OOP, DSA, DB)
 - Future Goal is to become the MBBS Doctor of Computer.
 - During Learning my Development projects can be found on [My-Projects-Collection](https://github.com/muhib7353/My-Project-Collection)
 - As a jounrlist hobby written Some Blogs and Programming Concepts at [@Codezilla Nest](https:github.com/Codezilla-Nest)
