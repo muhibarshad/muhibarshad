@@ -2,25 +2,12 @@
 <br>
 <h1 align="center">Meet Muhib</h1>
 
-A passionate software engineer who loves open source, automation, and has a core understanding of computers. From development perspective, still he has experience with MERN, C++, and programming concepts such as PF, OOP, DSA, and DB. Muhib's goal is to become the Computer Scientist. During his Learning journey he has done a lot of projects, which you can find on his [Projects links Repository](https://github.com/muhib7353/My-Project-Collection) profile. In his free time, he writes blogs about programming concepts, which you can find at [@Codezilla Nest](https:github.com/Codezilla-Nest) and plays games on [Steam](https://steamcommunity.com/id/muhib7353/) while vibing his sense of humor taste on [his "Okay" playlist at Spotify](https://open.spotify.com/user/315m2g5uepumjt7i5e6ct2lshh6u?si=5f75a9a017ae4692), while also focusing on his imagination and try to feel others his blessing thoughts. You can reach out to him at muhibarshad123@gmail.com or on Discord at Muhib#5152. Check out his reading and writing blogging material at [daily.dev](https://app.daily.dev/muhib7353) and [Medium](https://medium.com/@muhib7353), respectively.
+A passionate software engineer who loves open source, automation, and has a core understanding of computers. From development perspective, still he has experience with MERN, C++, and programming concepts such as PF, OOP, DSA, and DB. Muhib's goal is to become the Computer Scientist. During his Learning journey he has done a lot of projects, which you can find on his [Projects links Repository](https://github.com/muhib7353/My-Project-Collection) profile. In his free time, he writes blogs about programming concepts, which you can find at his profile. You can reach out to him at muhibarshad123@gmail.com. Check out his reading and writing blogging material at [daily.dev](https://app.daily.dev/muhib7353) and [Medium](https://medium.com/@muhib7353), respectively.
 The only thing I know about myself is, I am loyal and faithful even more than dogs.
 <p align="center">
   <img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif" alt="image">
 </p>
 
- <h2 align="center">🌐 Socials</h2>
-
-<p align="center">
-  <a href="https://instagram.com/muhibarshad101">
-    <img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" alt="Instagram">
-  </a>
-  <a href="https://linkedin.com/in/muhib-arshad-577987274">
-    <img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="https://medium.com/@muibarshad101">
-    <img src="https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white" alt="Medium">
-  </a>
-</p>
 
  <h2 align="center">💻 Tech Stack</h2>
 
