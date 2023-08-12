@@ -40,11 +40,18 @@ The only thing I know about myself is, I am loyal and faithful even more than do
  <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhib7353&show_icons=true&locale=en&layout=compact" alt="muhib7353" /></p>
+  <img alt="muhib7353's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhib7353&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+ <img alt="muhib7353's Stats" src="https://github-readme-stats.vercel.app/api?username=muhib7353&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+<img alt="muhib7353's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhib7353&theme=tokyonight&hide_border=true">
+
+
+  
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=muhib7353&show_icons=true&locale=en&layout=compact" alt="muhib7353" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=muhib7353&show_icons=true&locale=en" alt="muhib7353" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=muhib7353&" alt="muhib7353" /></p>
+ -->
 
   
 </p>
