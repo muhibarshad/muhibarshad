@@ -2,7 +2,7 @@
 <br>
 <h1 align="center">Meet Muhib</h1>
 
-A passionate software engineer who loves open source, automation, and has a core understanding of computers. From development perspective, still he has experience with MERN, C++, and programming concepts such as PF, OOP, DSA, and DB. Muhib's goal is to become the Computer Scientist. During his Learning journey he has done a lot of projects, which you can find on his [Projects links Repository](https://github.com/muhib7353/My-Project-Collection) profile. In his free time, he writes blogs about programming concepts, which you can find at his profile. You can reach out to him at muhibarshad123@gmail.com. Check out his reading and writing blogging material at [daily.dev](https://app.daily.dev/muhib7353) and [Medium](https://medium.com/@muhib7353), respectively.
+A passionate software engineer who loves open source, automation, and has a core understanding of computers. From development perspective, still he has experience with MERN, C++, and programming concepts such as PF, OOP, DSA, and DB. Muhib's goal is to become the Computer Scientist. During his Learning journey he has done a lot of projects, which you can find on his [Projects links Repository](https://github.com/muhibarshad/My-Project-Collection) profile. In his free time, he writes blogs about programming concepts, which you can find at his profile. You can reach out to him at muhibarshad123@gmail.com. Check out his reading and writing blogging material at [daily.dev](https://app.daily.dev/muhib7353) and [Medium](https://medium.com/@muhib7353), respectively.
 The only thing I know about myself is, I am loyal and faithful even more than dogs.
 <p align="center">
   <img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif" alt="image">
@@ -40,9 +40,9 @@ The only thing I know about myself is, I am loyal and faithful even more than do
  <h2 align="center">📊 GitHub Stats</h2>
 
 <p align="center">
-  <img alt="muhib7353's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhib7353&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
- <img alt="muhib7353's Stats" src="https://github-readme-stats.vercel.app/api?username=muhib7353&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
-<img alt="muhib7353's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhib7353&theme=tokyonight&hide_border=true">
+  <img alt="muhibarshad's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhib7353&theme=tokyonight&show_icons=true&hide_border=true&layout=compact">
+ <img alt="muhibarshad's Stats" src="https://github-readme-stats.vercel.app/api?username=muhib7353&theme=tokyonight&show_icons=true&hide_border=true&count_private=true">
+<img alt="muhibarshad's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=muhib7353&theme=tokyonight&hide_border=true">
 
 
   
