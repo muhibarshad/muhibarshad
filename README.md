@@ -2,8 +2,21 @@
 <br>
 <h1 align="center">Meet Muhib</h1>
 
-A passionate software engineer who loves open source, automation, and has a core understanding of computers. From development perspective, still he has experience with MERN, C++, and programming concepts such as PF, OOP, DSA, and DB. Muhib's goal is to become the Computer Scientist. During his Learning journey he has done a lot of projects, which you can find on his [Projects links Repository](https://github.com/muhibarshad/My-Project-Collection) profile. In his free time, he writes blogs about programming concepts, which you can find at his profile. You can reach out to him at muhibarshad123@gmail.com. Check out his reading and writing blogging material at [daily.dev](https://app.daily.dev/muhib7353) and [Medium](https://medium.com/@muhib7353), respectively.
-The only thing I know about myself is, I have no enemies.
+ My Journey
+
+🎓 Software Engineer
+
+💻 Full-Stack Developer | AI/ML Integrator
+
+🌐 Collaborative Builder: Deliver scalable web/mobile applications using MERN stack (React.js, Node.js, MongoDB) and Android (Kotlin, SQLite), prioritizing clean architecture and maintainable code.
+
+🔧 Problem Solver: Transform ambiguity into clarity by designing RESTful APIs, automating workflows with Docker, and prototyping AI-driven features in Python.
+
+📚 Continuous Learner: Deepening expertise in system design and scalable architecture principles to build resilient, user-centric systems.
+
+🔍 Explore My Work: Projects blending creativity with technical rigor—where every commit advances real-world impact.
+
+
 
 <p align="center">
   <img src="https://github.com/freekmurze/freekmurze/blob/master/dino.gif" alt="image">
@@ -46,6 +59,17 @@ The only thing I know about myself is, I have no enemies.
 <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=flat&logo=plotly&logoColor=white" alt="Plotly">
 <img src="https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=flat&logo=TensorFlow&logoColor=white" alt="TensorFlow">
 <img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white" alt="Docker">
+<img src="https://img.shields.io/badge/kotlin-%237F52FF.svg?style=flat&logo=kotlin&logoColor=white" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/AWS-%23FF9900.svg?style=flat&logo=amazon-aws&logoColor=white" alt="AWS"/>
+<img src="https://img.shields.io/badge/Next-black?style=flat&logo=next.js&logoColor=white" alt="Next JS"/>
+<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=flat&logo=nestjs&logoColor=white" alt="NestJS"/>
+<img src="https://img.shields.io/badge/Nuxt-002E3B?style=flat&logo=nuxt.js&logoColor=#00DC82" alt="Nuxt JS"/>
+<img src="https://img.shields.io/badge/opencv-%23white.svg?style=flat&logo=opencv&logoColor=white" alt="OpenCV"/>
+<img src="https://img.shields.io/badge/apache-%23D42029.svg?style=flat&logo=apache&logoColor=white" alt="Apache"/>
+<img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=flat&logo=apache-tomcat&logoColor=black" alt="Apache Tomcat"/>
+<img src="https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white" alt="GitHub"/>
+<img src="https://img.shields.io/badge/gitlab-%23181717.svg?style=flat&logo=gitlab&logoColor=white" alt="GitLab"/>
+<img src="https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white" alt="Git"/>
 
 </p>
 
