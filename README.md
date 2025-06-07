@@ -8,7 +8,7 @@
 
 💻 Full-Stack Developer | AI/ML Integrator
 
-My Doc : [muhibarshad-doc](https://muhibarshad-git-main-muhib7353s-projects.vercel.app/)
+My Doc : [muhibarshad-doc](https://muhibarshad.xyz)
 
 🌐 Collaborative Builder: Deliver scalable web/mobile applications using MERN stack (React.js, Node.js, MongoDB) and Android (Kotlin, SQLite), prioritizing clean architecture and maintainable code.
 
