@@ -67,10 +67,10 @@ Currently at **Cyberify**, engineering production-grade applications that combin
 
 ## 📈 GitHub Activity
 
-<div align="center"> 
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhibarshad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/> 
-   <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhibarshad&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="170">
-</div> 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=muhibarshad&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" style="display: inline-block;"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhibarshad&theme=tokyonight&hide_border=false" height="180" style="display: inline-block;"/>
+</div>
 
 
 <div align="center"> 
