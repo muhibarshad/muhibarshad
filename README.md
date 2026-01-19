@@ -21,7 +21,7 @@
 
 ## ⚡ Quick Intro
 
-3+ years building **AI-powered full-stack applications** with agentic workflows. I create intelligent systems using **LangChain**, **LangGraph**, and modern LLM orchestration—where AI agents autonomously handle complex tasks, make decisions, and execute multi-step workflows.
+1+ years building **AI-powered full-stack applications** with agentic workflows. I create intelligent systems using **LangChain**, **LangGraph**, and modern LLM orchestration—where AI agents autonomously handle complex tasks, make decisions, and execute multi-step workflows.
 
 Currently at **Cyberify**, engineering production-grade applications that combine **React/Next.js frontends** with **autonomous AI backends**, voice synthesis, and intelligent automation.
 
