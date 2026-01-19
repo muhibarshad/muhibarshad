@@ -59,10 +59,9 @@ Tools:         Jira, Postman, Linux, Socket.io, Wireshark
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=muhibarshad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="165">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhibarshad&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="165">
+  <img src="https://github-readme-stats.vercel.app/api?username=muhibarshad&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" height="170">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=muhibarshad&theme=tokyonight&hide_border=false" alt="GitHub Streak" height="170">
 </p>
-
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=muhibarshad&theme=tokyonight&hide_border=false&layout=compact&langs_count=8" alt="Top Languages">
 </p>
