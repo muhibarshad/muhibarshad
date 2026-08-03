@@ -12,11 +12,9 @@
 <a href="mailto:muhibarshad123@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=muhib7353&label=Profile%20views&color=0e75b6&style=flat" alt="muhib7353" /> </p>
-<br>
+<img src="https://komarev.com/ghpvc/?username=muhib7353&label=Profile%20views&color=0e75b6&style=flat" alt="muhib7353" />
 
 </div>
-
 ---
 
 ## ⚡ Quick Intro
@@ -36,8 +34,9 @@ Currently at **Cyberify**, engineering production-grade applications that combin
 ### 🤖 AI Orchestration
 - LangChain & LangGraph
 - Multi-agent systems
-- RAG architectures
-- Vector databases
+- RAG architectures (LlamaIndex)
+- pgvector & Vector databases
+- Hybrid Search (semantic + FTS + RRF)
 - Prompt engineering
 
 </td>
@@ -45,6 +44,8 @@ Currently at **Cyberify**, engineering production-grade applications that combin
 
 ### 🧠 Intelligence Layer
 - OpenAI, Anthropic APIs
+- Vision / VLM (GPT-4o, NVIDIA LocateAnything)
+- Live object detection over WebSocket
 - ElevenLabs voice AI
 - TensorFlow & PyTorch
 - Fine-tuning workflows
@@ -55,15 +56,17 @@ Currently at **Cyberify**, engineering production-grade applications that combin
 
 ### 🏗️ Full-Stack
 - Next.js & React
-- Node.js & NestJS
+- FastAPI & Node.js / NestJS
+- WebSocket streaming
 - TypeScript ecosystem
-- PostgreSQL & MongoDB
+- PostgreSQL + pgvector & MongoDB
 - Docker & AWS
 
 </td>
 </tr>
 </table>
 
+---
 
 ## 📈 GitHub Activity
 
@@ -93,7 +96,7 @@ Currently at **Cyberify**, engineering production-grade applications that combin
   current_focus: [
     "Full-stack AI applications with autonomous agent workflows",
     "Multi-agent systems (AutoGen, CrewAI) with React frontends",
-    "Production RAG pipelines integrated into web apps",
+    "Production RAG pipelines with LlamaIndex + pgvector",
     "Voice-enabled AI assistants with ElevenLabs",
     "End-to-end intelligent automation platforms"
   ],
